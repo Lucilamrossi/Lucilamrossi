@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucila Rossi</h1>
 <h3 align="center">I'm a full-stack developer, and I love what I do!</h3>
 
-- 🌱 I’m currently learning **at soyHenry's bootcamp and** I’m working on **the final project about to graduate**
+- 🌱 I started my developer career at **soyHenry's bootcamp**
 
 - ⚡ Fun fact **I also study Veterinary and** I’m currently working on **a Genetic's interactive website!** 
 
