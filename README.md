@@ -39,40 +39,4 @@
 </p>
 
 
-- React
-
-- Redux
-
-- TypeScript
-
-- JavaScript
-
-- NodeJs
-
-- Express
-
-- Git
-
-- MySQL
-
-- PostgreSQL
-
-- SQLite
-
-- ReactNative
-
-- CSS
-
-- HTML5
-
-- Webpak
-
-- Jest
-
-- Mocha
-
-- Babel
-
-- Bootstrap
-
-- Photoshop
+React - Redux - ReactNative - TypeScript - JavaScript - NodeJs - Express - Git - MySQL - PostgreSQL - SQLite - CSS - HTML5 - Bootstrap - Webpak - Babel - Jest - Mocha - Photoshop
